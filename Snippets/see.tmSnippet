@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@see ${1:Name or URL}</string>
+	<string>@see ${1:name_or_url} ${2:description}</string>
 	<key>name</key>
 	<string>See Also</string>
 	<key>scope</key>

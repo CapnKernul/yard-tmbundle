@@ -3,14 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@yieldparam [${1:types}] ${2:name} ${3:description}</string>
+	<string>@overload ${1:name}
+#   ${2:description}
+#   $3</string>
 	<key>name</key>
-	<string>Yields Parameter</string>
+	<string>Overload</string>
 	<key>scope</key>
 	<string>comment.line.number-sign.ruby</string>
 	<key>tabTrigger</key>
-	<string>yparam</string>
+	<string>overload</string>
 	<key>uuid</key>
-	<string>51A5C475-1977-4408-BCAB-7F3BFEA3664F</string>
+	<string>6DF6049E-2CF0-4BD0-9753-3685D746D6F7</string>
 </dict>
 </plist>

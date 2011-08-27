@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@raise [${1:ExceptionClass}] ${3:Description}</string>
+	<string>@raise [${1:exception_class}] ${2:description}</string>
 	<key>name</key>
 	<string>Raises Exception</string>
 	<key>scope</key>

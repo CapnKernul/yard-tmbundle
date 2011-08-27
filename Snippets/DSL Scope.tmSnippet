@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@yieldparam [${1:types}] ${2:name} ${3:description}</string>
+	<string>@scope ${1:[class, instance]}</string>
 	<key>name</key>
-	<string>Yields Parameter</string>
+	<string>DSL Scope</string>
 	<key>scope</key>
 	<string>comment.line.number-sign.ruby</string>
 	<key>tabTrigger</key>
-	<string>yparam</string>
+	<string>scope</string>
 	<key>uuid</key>
-	<string>51A5C475-1977-4408-BCAB-7F3BFEA3664F</string>
+	<string>0C4D9C7C-A54C-4FDE-BA19-BD284F9C50C5</string>
 </dict>
 </plist>

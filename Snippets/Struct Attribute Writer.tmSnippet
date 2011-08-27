@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@yieldparam [${1:types}] ${2:name} ${3:description}</string>
+	<string>@attr_writer [${1:types}] ${2:name} ${3:description}</string>
 	<key>name</key>
-	<string>Yields Parameter</string>
+	<string>Struct Attribute Writer</string>
 	<key>scope</key>
 	<string>comment.line.number-sign.ruby</string>
 	<key>tabTrigger</key>
-	<string>yparam</string>
+	<string>attrw</string>
 	<key>uuid</key>
-	<string>51A5C475-1977-4408-BCAB-7F3BFEA3664F</string>
+	<string>24378A01-E5C5-41FE-B6D7-C2314D55F351</string>
 </dict>
 </plist>

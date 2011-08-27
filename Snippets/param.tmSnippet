@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@param [${1:Types}] ${2:Name} ${3:Description}</string>
+	<string>@param [${1:types}] ${2:name} ${3:description}</string>
 	<key>name</key>
 	<string>Parameter</string>
 	<key>scope</key>

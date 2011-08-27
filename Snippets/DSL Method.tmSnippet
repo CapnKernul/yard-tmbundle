@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@alias </string>
+	<string>@method ${1:signature}</string>
 	<key>name</key>
-	<string>Alias Of</string>
+	<string>DSL Method</string>
 	<key>scope</key>
 	<string>comment.line.number-sign.ruby</string>
 	<key>tabTrigger</key>
-	<string>alias</string>
+	<string>method</string>
 	<key>uuid</key>
-	<string>A537FD23-3EFA-48CF-AE22-714C1A134940</string>
+	<string>7B28AFB3-D02A-442A-AF76-6ABDCB6E1F63</string>
 </dict>
 </plist>

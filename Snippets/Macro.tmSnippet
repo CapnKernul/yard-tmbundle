@@ -3,14 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@yieldparam [${1:types}] ${2:name} ${3:description}</string>
+	<string>@macro [${1:[new, attached]}] ${2:name}
+#   ${3:content}</string>
 	<key>name</key>
-	<string>Yields Parameter</string>
+	<string>Macro</string>
 	<key>scope</key>
 	<string>comment.line.number-sign.ruby</string>
 	<key>tabTrigger</key>
-	<string>yparam</string>
+	<string>macro</string>
 	<key>uuid</key>
-	<string>51A5C475-1977-4408-BCAB-7F3BFEA3664F</string>
+	<string>E9393745-5DB1-4106-ACB4-D729285AF5DF</string>
 </dict>
 </plist>

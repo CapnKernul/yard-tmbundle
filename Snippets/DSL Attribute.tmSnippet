@@ -3,17 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>
-# </string>
-	<key>keyEquivalent</key>
-	<string></string>
+	<string>@attribute [${1:[rw, r, w]}] ${2:name}</string>
 	<key>name</key>
-	<string>New Comment Line</string>
+	<string>DSL Attribute</string>
 	<key>scope</key>
 	<string>comment.line.number-sign.ruby</string>
 	<key>tabTrigger</key>
-	<string>source.ruby</string>
+	<string>attribute</string>
 	<key>uuid</key>
-	<string>B8AD763C-830B-4A5B-AD40-5E7B90C83F0A</string>
+	<string>BCF492CA-005D-4745-B4DD-044963208F36</string>
 </dict>
 </plist>

@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@since ${1:number}</string>
+	<string>@since ${1:version}</string>
 	<key>name</key>
-	<string>Available Since</string>
+	<string>Since</string>
 	<key>scope</key>
 	<string>comment.line.number-sign.ruby</string>
 	<key>tabTrigger</key>

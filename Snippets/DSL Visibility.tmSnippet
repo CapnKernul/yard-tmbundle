@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@yieldparam [${1:types}] ${2:name} ${3:description}</string>
+	<string>@visibility ${1:[public, private, protected]}</string>
 	<key>name</key>
-	<string>Yields Parameter</string>
+	<string>DSL Visibility</string>
 	<key>scope</key>
 	<string>comment.line.number-sign.ruby</string>
 	<key>tabTrigger</key>
-	<string>yparam</string>
+	<string>version</string>
 	<key>uuid</key>
-	<string>51A5C475-1977-4408-BCAB-7F3BFEA3664F</string>
+	<string>88502108-3E29-4986-96EE-7C109C022125</string>
 </dict>
 </plist>

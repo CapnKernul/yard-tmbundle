@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@deprecated ${1:Description}</string>
+	<string>@deprecated ${1:description}</string>
 	<key>name</key>
 	<string>Deprecated</string>
 	<key>scope</key>

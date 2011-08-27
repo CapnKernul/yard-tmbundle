@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@return [${1:Types}] ${2:Description}</string>
+	<string>@return [${1:types}] ${2:description}</string>
 	<key>name</key>
-	<string>Returns</string>
+	<string>Return</string>
 	<key>scope</key>
 	<string>comment.line.number-sign.ruby</string>
 	<key>tabTrigger</key>
